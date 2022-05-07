@@ -1,0 +1,66 @@
+body {
+    background: #755850;
+}
+
+.logomarca {
+    max-height: 115px;
+}
+
+.bg-banner {
+    background: url('../img/bg-banner.webp') repeat;
+}
+
+.banner-andressa {
+    max-height: 300px;
+}
+
+.bg-metodo {
+	background: url('../img/bg-banner-recorte.webp') repeat;
+}
+
+.mobile-ajust {
+    margin-top: -40px !important;
+}
+
+.bg-notebook {
+	background: linear-gradient(#c82c66 10%, #FEEBD4 10%);
+}
+
+.radius-ajust{
+    background: #C6705B; border-radius: 0px; z-index: 99 !important;
+}
+
+@media (min-width: 992px) { 
+
+    .logomarca {
+        max-height: 170px;
+    }
+
+    .bg-banner {
+        background: url('../img/bg-banner.webp') repeat;
+    }
+
+    .banner-andressa {
+        max-height: 500px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .bg-metodo {
+        /*background: url('../img/bg-banner-recorte.png') repeat-x #755850;*/
+        background: #755850;
+    }
+
+    .bg-notebook {
+        background: #FEEBD4;
+    }
+
+    .mobile-ajust {
+        margin-top: 0px !important;
+    }
+
+    .radius-ajust{
+        background: #C6705B; border-radius: 20px; z-index: 99 !important;
+    }
+
+}
