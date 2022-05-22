@@ -12,4 +12,4 @@ Links: <a href="https://andressasalomao.com.br/plc1/pv/" target="_Blank">Product
 <hr/>
 
 ### <a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/" target="_Blank">Preview</a>
-<a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/" target="_Blank"><img src="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/img/screencapture-andressasalomao-viver-do-feltro-lc1.webp" alt="Screenshot do Projeto" /></a>
+<a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/" target="_Blank"><img src="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/assets/img/screencapture-andressasalomao-viver-do-feltro-lc1.webp" alt="Screenshot do Projeto" /></a>
