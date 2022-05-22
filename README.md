@@ -1,7 +1,7 @@
 # andressasalomao-viver-do-feltro-l1-pv
 Página de vendas do produto Viver do Feltro (plc1)
 
-Links: <a href="https://andressasalomao.com.br/plc1/pv/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-l1-pv/" target="_Blank">Alternative</a>
+Links: <a href="https://andressasalomao.com.br/plc1/pv/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/" target="_Blank">Alternative</a>
 <hr/>
 
 ### Tecnologias principais
@@ -11,5 +11,5 @@ Links: <a href="https://andressasalomao.com.br/plc1/pv/" target="_Blank">Product
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
 <hr/>
 
-### <a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-l1-pv/" target="_Blank">Preview</a>
-<a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-l1-pv/" target="_Blank"><img src="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/img/screencapture-andressasalomao-viver-do-feltro-lc1.webp" alt="Screenshot do Projeto" /></a>
+### <a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/" target="_Blank">Preview</a>
+<a href="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/" target="_Blank"><img src="https://guyddogl.github.io/andressasalomao-viver-do-feltro-lc1/img/screencapture-andressasalomao-viver-do-feltro-lc1.webp" alt="Screenshot do Projeto" /></a>
